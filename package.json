@@ -1,5 +1,5 @@
 {
-  "name": "headwind-installer",
+  "name": "aeronovadynmcs-installer",
   "productName": "Headwind Simulations Installer",
   "version": "1.5.4-dev.1",
   "description": "Desktop application to install and customize Headwind Simulation addons",
@@ -17,7 +17,7 @@
     "lint:fix": "eslint --fix --ext .ts,.tsx ."
   },
   "keywords": [],
-  "author": "Headwind Simulations",
+  "author": "AeroNovaDynamics Simulations",
   "license": "GPL-3.0",
   "build": {
     "extraResources": [
